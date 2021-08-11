@@ -1,0 +1,15 @@
+Project powered by @sup3rgiu
+Features: PoliMi Autologin - Multithreading download
+Using aria2 version 1.35.0
+Using ffmpeg version n4.4 Copyright (c) 2000-2021 the FFmpeg developers
+
+Video URLs: [
+  'https://politecnicomilano.webex.com/webappng/sites/politecnicomilano/recording/play/5293d7b09d8d4f85883b3b2e31308930'
+]
+Output Directory: videos
+
+Please enter your password: 
+Launching headless Chrome to perform the OpenID Connect dance...
+Navigating to WebEx login page...
+Filling in Servizi Online login form...
+We are logged in. 
